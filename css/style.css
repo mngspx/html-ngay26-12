@@ -1,0 +1,79 @@
+
+body{
+	background-color: #f6f5f1;
+}
+#box-page{
+	width: 1050px;
+	margin: auto;
+	background-color: white;
+}
+#banner-top{
+	background-color: #f6f5f1;
+}
+#main-menu{
+	margin-bottom: 40px;
+}
+#main-menu ul li a{
+	color: white;
+	display: block;
+	padding: 15px;
+	border-right: 1px white solid;
+}
+#main-menu ul{
+	background-image: linear-gradient(to right,#77b6e9,#1d5699);
+}
+#main-menu ul li a:hover{
+	background-color: black;
+}
+/*trinh bay than trang*/
+#main-body{
+	padding-left: 25px;
+}
+.newsfeed{
+	border-top: #03b1e3 5px solid;
+	margin-top: 35px;
+	box-shadow: 0px 5px 5px #ebebeb;
+	margin-right: 0px;
+}
+.hotnews{
+	padding-bottom: 30px;
+	padding-left: 10px;
+}
+.bd{
+	margin: 0px;
+	padding: 0px;
+	border-bottom: 1px solid #ebebeb;
+}
+p{
+	margin-bottom: 0px;
+	color: #a29791;
+}
+a p{
+	color: #383b32;
+}
+h3{
+	padding: 15px;
+	color: #383b32;
+	border-bottom: 1px solid #ebebeb;
+}
+.newsrecent{
+	margin: 5px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.item{
+	margin-bottom: 15px;
+}
+#right-body .newsfeed{
+	margin-top: 0px;
+}
+#footer-page{
+	margin-top: 20px;
+	background-color: #252525;
+	margin-left: 0px;
+}
+#footer-page h4{
+	color: white;
+	padding: 15px;
+	border-bottom: 1px white dotted;
+}
